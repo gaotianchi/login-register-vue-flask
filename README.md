@@ -19,4 +19,10 @@ $ cd ../backend
 $ python -m pip install -r requirements.dev.txt
 ```
 
+## Demo
+
+https://github.com/gaotianchi/login-register-vue-flask/assets/105527253/b05f93b5-5c72-4334-b27a-d7e377b5b823
+
+
+
 
